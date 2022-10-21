@@ -1,6 +1,6 @@
 # test-mini
 
-## Build Setup
+## App Build Setup
 
 ```bash
 # install dependencies
